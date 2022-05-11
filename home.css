@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none;
+    text-align: center;
+
+}
+li {
+    float: right;
+    padding: 10px;
+}
+body {
+        background-color: black;
+}
+a{
+    color: white;
+}
+a:link {
+    color:#1098ad;
+    text-decoration:none ;
+}
+
+a:visited{
+    color: white;
+}
+a:hover {
+    color: orangered;
+    font-weight: bold;
+    text-decoration: underline dashed orangered;
+}
+
+a:active {
+    background-color: black;
+    font-style: italic;
+}
+footer  {
+            color: white;
+            bottom: 0;
+}

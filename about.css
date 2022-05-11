@@ -1,0 +1,82 @@
+*   {
+        margin: 0;
+        padding: 0;
+}
+body{
+    font-family: sans-serif;
+    background-color: rgba(132, 132, 132, 0.826);
+}
+
+nav {
+        padding: 10px 15px;
+}
+
+ul {
+        list-style-type: none;
+
+}
+
+ li {
+        float: right;
+        padding: 10px;
+} 
+
+ .our-Story {
+                background-color: rgb(119, 133, 141);
+                padding: 25px 20px;
+                float: right;
+                width:500px;
+                margin: 0 ;
+
+
+} 
+
+.who {
+        height: 250px;
+        width: 105px;
+        padding: 25px 20px;
+        background-color:#444;
+        margin-top: 70px;
+} 
+
+.where {
+            margin-top:50px;
+            padding:20px 20px;
+            background-color: bisque;
+} 
+.angela {
+            float: right;
+            margin:0;
+            position: absolute;
+            padding: 100px;
+}
+.logo {
+            float: left;
+}
+
+a{
+    color: black;
+}
+a:link {
+    color:#1098ad;
+    text-decoration:none ;
+}
+
+a:visited{
+    color: black;
+}
+a:hover {
+    color: orangered;
+    font-weight: bold;
+    text-decoration: underline dashed orangered;
+}
+
+a:active {
+    background-color: black;
+    font-style: italic;
+}
+footer  {
+            bottom: 0;
+}
+
+
